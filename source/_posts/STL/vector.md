@@ -4,7 +4,7 @@ date: 2017.06.20
 tags:
   - STL
   - vector 
-categories: STL
+categories: Data Structure
 ---
 
 ### 1. iterator
